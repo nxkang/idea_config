@@ -1,0 +1,35 @@
+<application>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="2" />
+      <entry feature="OpenInBrowser.Chrome" count="1" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Debug" count="1" />
+      <entry feature="execute.Application.Debug" count="1" />
+      <entry feature="execute.Application.Run" count="18" />
+      <entry feature="execute.GradleRunConfiguration.Run" count="3" />
+      <entry feature="execute.TestNG.Debug" count="1" />
+      <entry feature="execute.TestNG.Run" count="1" />
+      <entry feature="ide.help.settings_passwords_master_password_init" count="1" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="17" />
+      <entry feature="ide.settings.Console_Font" count="3" />
+      <entry feature="ide.settings.File_Encodings" count="1" />
+      <entry feature="ide.settings.Font" count="6" />
+      <entry feature="ide.settings.General" count="1" />
+      <entry feature="ide.settings.Gradle" count="1" />
+      <entry feature="ide.settings.Java" count="17" />
+      <entry feature="ide.settings.Java_Compiler" count="1" />
+      <entry feature="ide.settings.Plugins" count="1" />
+      <entry feature="ide.settings.SQL_Dialects" count="1" />
+      <entry feature="ide.settings.System_Settings" count="1" />
+      <entry feature="ide.settings.Tomcat_Server" count="1" />
+      <entry feature="ideaapp.started" count="45" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="19" />
+      <entry feature="terminal.win" count="3" />
+      <entry feature="tips.of.the.day.next" count="3" />
+      <entry feature="uml.ShowDiagram.JAVA" count="13" />
+      <entry feature="uml.ShowDiagram.JAVA.popup" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="6" />
+      <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="12" />
+    </counts>
+  </component>
+</application>

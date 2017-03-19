@@ -1,0 +1,39 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="installed.kotlin.plugin.version" value="1.0.3-release-IJ2016.1-120" />
+    <property name="android-component-compatibility-check" value="1489674888518" />
+    <property name="file.chooser.recent.files" value="D:/GreenSoftware/apache-maven-3.3.9&#10;E:/Project/smart-framework&#10;E:/Project/web&#10;D:/GreenSoftware/apache-tomcat-7.0.75&#10;E:/Pdf/架构/分布式Java应用基础与实践/source&#10;E:/BookSourceCode/jpwh-2e-examples-20151103&#10;E:/Project/LearnHibernate&#10;E:/Project/spring4-mvc-hibernate4&#10;E:/Project&#10;E:/&#10;E:/BookSourceCode/SpringiA4_SourceCode&#10;D:/GreenSoftware/gradle-3.2.1&#10;E:/BookSourceCode/SpringiA4_SourceCode/Chapter_05&#10;E:/BookSourceCode/SpringSource-Spring-Integration-in-Action-f4c52d5/siia-examples&#10;D:/settings (1).jar&#10;C:/Users/kang/Desktop/settings.jar&#10;E:/BookSourceCode/TIJ_Maven&#10;C:/Program Files/Java/jdk1.8.0_40&#10;E:/BookSourceCode/TIJ4-code" />
+    <property name="last.imported.location" value="E:/Pdf/架构/分布式Java应用基础与实践/source" />
+    <property name="create.project.preferred.importer" value="Existing Sources" />
+    <property name="eclipse.project.dir" value="E:\Pdf\架构\分布式Java应用基础与实践\source" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="lastTip" value="45" />
+    <property name="quick.doc.font.size" value="MEDIUM" />
+    <property name="PLUGIN_FILTER" value="Material" />
+    <property name="com.chrisrm.idea.MaterialThemeUI.theme" value="DEFAULT" />
+    <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="project.wizard.template" value="Maven" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="last.used.gradle.home" value="D:/GreenSoftware/gradle-3.2.1" />
+    <property name="gradle.runner.text.console_str" value="true" />
+    <property name="gradle.runner.text.console" value="true" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="spring.initializr.service.url.history" value="https://start.spring.io" />
+    <property name="spring.initializr.service.url.last" value="https://start.spring.io" />
+    <property name="TestNGSupport.hidePassedTests" value="false" />
+    <property name="TestNGSupport.hideConfig" value="true" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.rearrangeEntriesJava" value="false" />
+    <property name="selected.color.option.type" value="ABSTRACT_METHOD_ATTRIBUTES" />
+    <property name="ColorChooser.RecentColors" value="62-126-255-255,,,102-14-122-255,,,23-5-145-255,,,32-178-170-255,,,0-0-0-255" />
+    <property name="search.everywhere.max.popup.width" value="640" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+  </component>
+</application>

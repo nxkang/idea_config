@@ -1,0 +1,11 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>tran</find>
+      <find>hibernate.cfg.xml</find>
+      <find>homeAddress</find>
+      <find>execute(</find>
+      <find>den</find>
+    </findStrings>
+  </component>
+</application>
